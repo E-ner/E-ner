@@ -1,24 +1,27 @@
 # 👋 Hi there, I'm Nsengiyumva Eric!
 
-## 💻 Backend Developer | 🧠 Problem Solver | 🌍 Passionate about Impact
+🧑‍💻 Backend Developer | 🔧 API Builder | 🌍 Passionate Problem-Solver  
 
-I'm a self-taught developer who loves building **scalable backend systems** and meaningful products. I specialize in:
+I'm a self-taught developer who loves building backend systems that solve real-world problems and support others. I work mostly with:
 
-- 🟩 **Node.js, NestJS, Express**
-- ⚡ **Next.js, React.js, Tailwind CSS**
-- 📦 REST APIs & Microservices
-- 🧪 Database Design (PostgreSQL, MongoDB, MSQL)
-- 🔐 Authentication & Authorization
-- 🧑‍🏫 I love sharing what I know and helping people avoid misinformation.
-
-I'm currently working on real-world micro backend projects and learning how to **turn ideas into useful tools** for others. I believe in building to learn and sharing to grow.
+🟩 **Node.js** | 🧱 **NestJS** | ⚙️ **Express**  
+🌐 **Next.js** | 🖼️ **React.js** | 🎨 **Tailwind CSS**  
+🗃️ **PostgreSQL** | 🍃 **MongoDB**  
+🔐 **Auth Systems** | 📦 **REST APIs** | 🧪 **Microservices**
 
 ---
 
-## 📌 Skills
+## 🧠 About Me
+- 💬 I love teaching what I know and fighting misinformation
+- 🛠️ Currently building **micro backend projects** to help real users
+- 🌱 Always learning, sharing, and helping others grow
+
+---
+
+## 🚀 Skills
 ```bash
-Languages:   JavaScript, TypeScript
-Frameworks:  Node.js, NestJS, Express, Next.js, React
-Databases:   PostgreSQL, MongoDB, Mysql
-Styling:     Tailwind CSS
-Tools:       Git, GitHub, VS Code, Postman
+Languages   : JavaScript, TypeScript
+Frameworks  : Node.js, NestJS, Express, Next.js, React
+Databases   : PostgreSQL, MongoDB
+Styling     : Tailwind CSS
+Tools       : Git, GitHub, VS Code, Postman
