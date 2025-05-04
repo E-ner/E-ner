@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nsengiyumva Eric!
 
-<!--
-**E-ner/E-ner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Backend Developer | 🧠 Problem Solver | 🌍 Passionate about Impact
 
-Here are some ideas to get you started:
+I'm a self-taught developer who loves building **scalable backend systems** and meaningful products. I specialize in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🟩 **Node.js, NestJS, Express**
+- ⚡ **Next.js, React.js, Tailwind CSS**
+- 📦 REST APIs & Microservices
+- 🧪 Database Design (PostgreSQL, MongoDB, MSQL)
+- 🔐 Authentication & Authorization
+- 🧑‍🏫 I love sharing what I know and helping people avoid misinformation.
+
+I'm currently working on real-world micro backend projects and learning how to **turn ideas into useful tools** for others. I believe in building to learn and sharing to grow.
+
+---
+
+## 📌 Skills
+```bash
+Languages:   JavaScript, TypeScript
+Frameworks:  Node.js, NestJS, Express, Next.js, React
+Databases:   PostgreSQL, MongoDB, Mysql
+Styling:     Tailwind CSS
+Tools:       Git, GitHub, VS Code, Postman
