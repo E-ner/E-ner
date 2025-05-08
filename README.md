@@ -4,10 +4,10 @@
 
 I'm a self-taught developer who loves building backend systems that solve real-world problems and support others. I work mostly with:
 
-🟩 **Node.js** | 🧱 **NestJS** | ⚙️ **Express**  
-🌐 **Next.js** | 🖼️ **React.js** | 🎨 **Tailwind CSS**  
-🗃️ **PostgreSQL** | 🍃 **MongoDB**  
-🔐 **Auth Systems** | 📦 **REST APIs** | 🧪 **Microservices**
+*Node.js* | *NestJS* | *Express* 
+*Next.js* | *React.js* | *Tailwind CSS*
+*PostgreSQL* | *MongoDB*
+*Auth Systems* | *REST APIs* | *Microservices*
 
 ---
 
